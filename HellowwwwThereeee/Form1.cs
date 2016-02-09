@@ -18,7 +18,7 @@ namespace HellowwwwThereeee
 
         private void button1_Click(object sender, EventArgs e)
         {
-           MessageBox.Show("Hello there young traveler!");
+           MessageBox.Show("Hello there old traveler!");
         }
     }
 }
